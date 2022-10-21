@@ -5,9 +5,3 @@
 - 포 : 포도당 섭취
 - 도 : 도가 지나치면 
 - 당 : https://ko.wikipedia.org/wiki/%EB%8B%B9%EB%87%A8%EB%B3%91
-
----
-
-- 서 :
-- 리 :
-- 꾼 :
